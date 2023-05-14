@@ -1,0 +1,5 @@
+<speak:speak xmlns:mstts="https://www.w3.org/2001/mstts" xmlns:speak="http://www.w3.org/2001/10/synthesis" version="1.0" xml:lang="zh-CN">
+    <speak:voice name="zh-CN-XiaomoNeural">
+        <mstts:express-as role="YoungAdultFemale" style="calm" styledegree="2">他因此也被誉为“诗圣”</mstts:express-as>
+    </speak:voice>
+</speak:speak>
